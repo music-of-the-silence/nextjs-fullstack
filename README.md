@@ -1,5 +1,17 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+To commit these changes to your GitHub repository `https://github.com/music-of-the-silence/nextjs-fullstack.git`, you can use the following commands in your terminal:
+
+```bash
+git add README.md# Next.js Full Stack Video Streaming and Uploading Application
+
+This project is a full-stack video streaming and uploading application built with Next.js. It utilizes NextAuth for authentication.
+
+## Features
+
+- User authentication with NextAuth
+- Video streaming
+- Video uploading
+- Full-stack architecture using Next.js API routes
 
 ## Getting Started
 
