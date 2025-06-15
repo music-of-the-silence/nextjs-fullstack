@@ -3,7 +3,7 @@
 ````bash
 git add README.md# Next.js Full Stack Video Streaming and Uploading Application
 
-This project is a full-stack video streaming and uploading application built with Next.js. It utilizes NextAuth for authentication.
+This project is a full-stack video streaming and uploading application built with Next.js. It utilizes NextAuth for authentication and AI integration.
 
 ## Features
 
