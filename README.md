@@ -1,7 +1,6 @@
+# Next.js Full Stack Project
 
-To commit these changes to your GitHub repository `https://github.com/music-of-the-silence/nextjs-fullstack.git`, you can use the following commands in your terminal:
-
-```bash
+````bash
 git add README.md# Next.js Full Stack Video Streaming and Uploading Application
 
 This project is a full-stack video streaming and uploading application built with Next.js. It utilizes NextAuth for authentication.
@@ -12,6 +11,9 @@ This project is a full-stack video streaming and uploading application built wit
 - Video streaming
 - Video uploading
 - Full-stack architecture using Next.js API routes
+- TypeScript
+- ImageKit
+- MongoDB
 
 ## Getting Started
 
@@ -25,7 +27,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+````
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -47,7 +49,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
 # Test Sync
+
 =======
+
 # nextjs-fullstack
->>>>>>> dca0babd995346fa0b7a5d6ba2c2db5a837c7023
+
+> > > > > > > dca0babd995346fa0b7a5d6ba2c2db5a837c7023
