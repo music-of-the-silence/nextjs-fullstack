@@ -15,21 +15,24 @@ This project is a full-stack video streaming and uploading application built wit
 ## Technologies Used
 
 - Next.js 14 (App Router)
-- NextAuth.js
+- NextAuth.js (with middleware)
 - MongoDB (with Mongoose)
 - ImageKit
 - TypeScript
-- Tailwind CSS (implied by Vercel/Geist reference)
 
 ## Getting Started
 
 ### Prerequisites
+
 - Node.js v18+
 - MongoDB account
 - ImageKit account
 
 ### Installation
+
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/your-username/nextjs-fullstack.git
 cd nextjs-fullstack
+```
