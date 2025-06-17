@@ -16,8 +16,11 @@ function RegisterPage() {
     }
 
     try {
-      // REACT QUERY
+      
+      // THIS THE PLACE OF REACT QUERY LIKE
       // Loading, Error, Debounce
+
+
       const response = await fetch("/api/auth/register", {
         method: "POST",
         headers: {
